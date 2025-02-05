@@ -1,7 +1,7 @@
-# Challenge 7 Readme Generator
-
+# Project Challenge 7
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   ## Description
-  this helps you make a README
+  This is where you would put a description of your app for your readme! isnt that neat??
 
   ## Table of Contents
   - [Installation](#installation)
@@ -12,17 +12,21 @@
   - [Questions](#questions)
 
   ## installation
-  unzip and open in terminal
+  Unzip the thing and run it in terminal
 
   ## usage
-  Use a pc and follow the guide
+  you can use it for your projects via running in terminal
 
-  ##contributing
-  its good
+  ## license
+  MIT
+  (https://opensource.org/licenses/MIT)
+
+  ## contributing
+  we gottem!
 
   ## tests
-  put whatcha want I won't Judge.
+  test it out i wont judge
 
-  ##questions
-  Any quebbins? Hit me up yo! Hunter at Hunterwest94@rocketmail.com
+  ## questions
+  Any quebbins? Hit me up yo! Hunter at hunter@example.com
 

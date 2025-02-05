@@ -53,13 +53,13 @@ function generateMarkdown(data) {
   ${renderLicenseSection(data.license)}
   ${renderLicenseLink(data.license)}
 
-  ##contributing
+  ## contributing
   ${data.contributing}
 
   ## tests
   ${data.tests}
 
-  ##questions
+  ## questions
   Any quebbins? Hit me up yo! ${data.githubName} at ${data.email}
 
 `;

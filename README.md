@@ -17,12 +17,12 @@
   ## usage
   Use a pc and follow the guide
 
-  ##contributing
+  ## contributing
   its good
 
   ## tests
-  put whatcha want I won't Judge.
+  (https://drive.google.com/file/d/1IV2_lqNkwEsqVaBVlL5fx-ruobwkhsB2/view?usp=sharing)
 
-  ##questions
+  ## questions
   Any quebbins? Hit me up yo! Hunter at Hunterwest94@rocketmail.com
 
